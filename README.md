@@ -1,6 +1,9 @@
 # desc
 抓取淘宝各个分类下的所有店铺数据
 
+# dependency
+html解析库:https://github.com/samacs/simple_html_dom
+
 # method
 
 ## step 1
